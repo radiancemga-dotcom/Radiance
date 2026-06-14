@@ -1,5 +1,5 @@
 # Configuração do projeto Supabase (CLI). Substitua project_id pelo ref do seu projeto.
-project_id = "radiance-laser"
+project_id = "sxoxnpstmbebpluxtpvp"
 
 [api]
 enabled = true
