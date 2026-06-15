@@ -51,7 +51,7 @@ export function Footer() {
               <MapPin className="h-4 w-4 text-gold" /> {COMPANY.city}
             </li>
             <li className="flex items-center gap-2">
-              <Clock className="h-4 w-4 text-gold" /> Seg a Sex, 7h às 19h
+              <Clock className="h-4 w-4 text-gold" /> Seg a Sáb, 7h às 19h
             </li>
           </ul>
         </div>
